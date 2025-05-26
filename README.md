@@ -100,6 +100,7 @@ bash
 Copiar
 Editar
 python analise_criminal_chicago.py
+![Fluxograma](https://github.com/user-attachments/assets/dc2ab612-b0ce-4215-a4f2-37583cc89146)
 
 
 📂 Resultados Gerados
