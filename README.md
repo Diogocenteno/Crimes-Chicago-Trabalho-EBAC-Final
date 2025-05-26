@@ -1,2 +1,121 @@
-# Crimes-Chicago-Trabalho-EBAC-Final
- Análise estatística dos crimes em Chicago (2001–2025) com projeções até 2030. Inclui gráficos, relatórios em PDF e planilhas Excel. Usa pandas, seaborn e sklearn para explorar dados por tipo, local e ano, gerando insights para segurança pública e prevenção.
+📊 Análise Criminal de Chicago (2001-2025 + Projeção até 2030)
+
+Projeto Final do curso de Análise de Dados da EBAC — Desenvolvido por Diogo Centeno.
+
+Este projeto realiza uma análise estatística e visual de dados criminais da cidade de Chicago, abrangendo o período de 2001 a 2025, com projeções até 2030.
+
+📁 Estrutura do Projeto
+
+📂 Analise_Criminal_Chicago/
+├── 📊 Gráficos (.png)
+├── 📈 Projeções (.xlsx)
+├── 📘 Relatório final (.pdf)
+├── 📄 Dados consolidados (.xlsx)
+├── 📜 Script principal (.py)
+└── 📚 README.md
+
+
+⚙️ Tecnologias Utilizadas
+Python 3.x
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+Scikit-learn (Linear Regression)
+
+OpenPyXL, FPDF
+
+Tqdm, Logging, Tabulate
+
+📌 Objetivos
+Consolidar dados criminais de diferentes fontes.
+
+Realizar análise estatística descritiva.
+
+Produzir visualizações úteis para a tomada de decisão.
+
+Gerar relatórios executivos e arquivos formatados.
+
+Projetar a criminalidade futura até 2030 com base em regressão linear.
+
+📥 Fontes de Dados
+Kaggle – Crimes in Chicago
+
+Chicago Data Portal
+
+🔎 Principais Funcionalidades
+✅ Carregamento automático e validação de datasets
+
+✅ Cruzamento e enriquecimento de dados
+
+✅ Análises estatísticas (Top crimes, locais, eficiência policial)
+
+✅ Projeção de criminalidade até 2030
+
+✅ Geração de gráficos:
+
+Linha temporal
+
+Distribuição anual
+
+Heatmap por local
+
+Boxplot
+
+✅ Exportação consolidada em Excel com formatação
+
+✅ Geração de relatório completo em PDF
+
+
+📊 Exemplos de Visualizações
+Tipo de Visualização	Exemplo
+Linha temporal dos principais crimes	
+Distribuição anual	
+Heatmap por local	
+Projeção até 2030
+
+🧪 Como Executar
+Clone o repositório:
+
+bash
+Copiar
+Editar
+git clone https://github.com/seu-usuario/analise-criminal-chicago.git
+Instale as dependências:
+
+bash
+Copiar
+Editar
+pip install -r requirements.txt
+Certifique-se de colocar os arquivos de entrada .xlsx no diretório correto (ou ajuste os caminhos no código):
+
+Crimes_po_ano_tipo.xlsx
+
+Crimes_por_bairro.xlsx
+
+Local_dos_crimes.xlsx
+
+Execute o script:
+
+bash
+Copiar
+Editar
+python analise_criminal_chicago.py
+
+
+📂 Resultados Gerados
+Após a execução, os seguintes arquivos serão salvos na pasta ~/Desktop/Analise_Criminal_Resultados/:
+
+Dados_Consolidados.xlsx — planilha com todos os dados integrados e análises.
+
+Relatorio_Completo.pdf — relatório final com gráficos e tabelas.
+
+Imagens dos gráficos gerados.
+
+Crimes_Unificados.xlsx — base integrada com colunas como "CRIME_GRAVE" e "CRIMES_POR_1000_HAB".
+
+✍️ Autor
+Diogo Centeno
+Projeto desenvolvido como Trabalho Final para o curso de Análise de Dados da EBAC.
+
+📝 Licença
+Este projeto está licenciado sob os termos da MIT License.
