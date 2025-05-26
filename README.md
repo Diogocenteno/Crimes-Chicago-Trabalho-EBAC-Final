@@ -51,6 +51,7 @@ Chicago Data Portal
 ✅ Análises estatísticas (Top crimes, locais, eficiência policial)
 
 ✅ Projeção de criminalidade até 2030
+![projecao_crimes](https://github.com/user-attachments/assets/d23b9148-de3e-4c80-aabf-b9a5c54ec342)
 
 ✅ Geração de gráficos:
 
