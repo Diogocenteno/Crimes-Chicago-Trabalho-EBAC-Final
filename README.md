@@ -54,14 +54,17 @@ Chicago Data Portal
 ![projecao_crimes](https://github.com/user-attachments/assets/d23b9148-de3e-4c80-aabf-b9a5c54ec342)
 
 ✅ Geração de gráficos:
+![tendencia_top_crimes](https://github.com/user-attachments/assets/d0564cd3-6302-444f-bdea-97538516b11c)
 
 Linha temporal
 
 Distribuição anual
 
 Heatmap por local
+![heatmap_distribuicao](https://github.com/user-attachments/assets/1e95902e-f782-4f79-b322-7e734fbba332)
 
 Boxplot
+![boxplot](https://github.com/user-attachments/assets/9737ef5e-993f-4eb8-b9ad-42aae32d8f57)
 
 ✅ Exportação consolidada em Excel com formatação
 
