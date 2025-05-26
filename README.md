@@ -14,6 +14,7 @@ Este projeto realiza uma análise estatística e visual de dados criminais da ci
 ├── 📜 Script principal (.py)
 └── 📚 README.md
 
+![distribuicao_ano](https://github.com/user-attachments/assets/ca308d76-cba5-4843-be06-479b93cfb664)
 
 ⚙️ Tecnologias Utilizadas
 Python 3.x
