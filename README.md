@@ -119,6 +119,11 @@ Imagens dos gráficos gerados.
 
 Crimes_Unificados.xlsx — base integrada com colunas como "CRIME_GRAVE" e "CRIMES_POR_1000_HAB".
 
+✍️ DASH
+![Captura de tela 2025-05-26 132848](https://github.com/user-attachments/assets/50fd134f-f85e-46da-9c3a-6f0e72787d71)
+
+
+
 ✍️ Autor
 Diogo Centeno
 Projeto desenvolvido como Trabalho Final para o curso de Análise de Dados da EBAC.
